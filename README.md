@@ -204,7 +204,7 @@ Sin garantías explícitas o implícitas.
 # 📂 Estructura del proyecto
 
 ```bash
-MovieSync/
+PlataformaPeliculasFlutter/
 │
 ├── lib/
 │   ├── core/
@@ -227,11 +227,11 @@ MovieSync/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/MrAbhi2k3/MovieSync.git
+git clone https://github.com/isairey/PlataformaPeliculasFlutter.git
 ```
 
 ```bash
-cd MovieSync
+cd PlataformaPeliculasFlutter
 ```
 
 ---
@@ -363,7 +363,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## MrAbhi2k3
+## Isai Reyes
 
 Desarrollador enfocado en aplicaciones multimedia modernas, Flutter y experiencias UI/UX premium.
 
